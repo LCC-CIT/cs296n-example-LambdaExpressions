@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpressionExample", "LambdaExpressionExample\LambdaExpressionExample.csproj", "{D6938C52-5B26-4B75-880B-9C8C1A34DC4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabdaParamInClassMethod", "LabdaExampleWithObjectParam\LabdaParamInClassMethod.csproj", "{05D88E91-9798-4334-8F89-C5E3DB383194}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpressionWithObjectParam", "LambdaExpressionWithObjectParam\LambdaExpressionWithObjectParam.csproj", "{748F3D74-3BE1-4994-BC34-C610A0683680}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6938C52-5B26-4B75-880B-9C8C1A34DC4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6938C52-5B26-4B75-880B-9C8C1A34DC4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6938C52-5B26-4B75-880B-9C8C1A34DC4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6938C52-5B26-4B75-880B-9C8C1A34DC4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05D88E91-9798-4334-8F89-C5E3DB383194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D88E91-9798-4334-8F89-C5E3DB383194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D88E91-9798-4334-8F89-C5E3DB383194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D88E91-9798-4334-8F89-C5E3DB383194}.Release|Any CPU.Build.0 = Release|Any CPU
+		{748F3D74-3BE1-4994-BC34-C610A0683680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748F3D74-3BE1-4994-BC34-C610A0683680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748F3D74-3BE1-4994-BC34-C610A0683680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748F3D74-3BE1-4994-BC34-C610A0683680}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
